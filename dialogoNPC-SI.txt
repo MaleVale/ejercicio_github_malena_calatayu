@@ -1,0 +1,34 @@
+1. Respuesta afirmativa sobre probar un platillo picante:
+
+¡Qué bien! Te recomiendo probar el curry rojo. Es delicioso y tiene un sabor intenso.
+¿Te gustaría que te lleve a un buen restaurante que lo sirva?
+
+Sí
+
+No
+
+NPC (si responden "Sí"):
+Perfecto, acompáñame. Está cerca de aquí, te encantará.
+¿Prefieres ir ahora o más tarde?
+
+Ahora
+
+Más tarde
+
+2. Respuesta afirmativa sobre preferir comida dulce o salada:
+
+NPC:
+¡Vaya! Si te gustan las opciones dulces, deberías probar el pastel de miel local. Es una delicia.
+¿Te gustaría probarlo ahora mismo?
+
+Sí
+
+No
+
+NPC (si responden "Sí"):
+Excelente elección. Ven, te llevaré al puesto que lo vende.
+¿Prefieres comerlo aquí o llevarlo para disfrutarlo más tarde?
+
+Aquí
+
+Para llevar
