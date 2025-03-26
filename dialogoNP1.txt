@@ -1,0 +1,11 @@
+1. ¿Te gusta el sushi?  
+   - Sí
+   - No
+
+2. ¿Prefieres comer desayuno en la mañana o al mediodía?  
+   - Mañana  
+   - Mediodía
+
+3. ¿Has probado alguna vez la comida tailandesa?  
+   - Sí
+   - No
