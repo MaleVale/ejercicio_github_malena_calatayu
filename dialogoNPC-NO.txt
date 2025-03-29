@@ -1,0 +1,43 @@
+Si el jugador responde "No" a "¿Te gusta el sushi?"
+
+NPC:
+¡Vaya! Entonces, tal vez prefieras otro tipo de comida japonesa, como el ramen o el katsu curry.
+¿Te gustaría probar alguno de esos platillos?
+
+Opciones:
+
+Sí
+
+No
+
+NPC (si responden "Sí"):
+¡Genial! Conozco un lugar donde preparan un ramen increíble.
+¿Prefieres un caldo suave o uno más especiado?
+
+Opciones:
+
+Suave
+
+Especiado
+
+Si el jugador responde "No" a "¿Has probado alguna vez la comida tailandesa?"
+
+NPC:
+¡Entonces tienes que darle una oportunidad! La comida tailandesa es una mezcla perfecta de sabores y especias.
+¿Te gustaría probar un platillo suave o uno con un toque picante?
+
+Opciones:
+
+Suave
+
+Picante
+
+NPC (si responden "Suave"):
+Entiendo, algo ligero para empezar. Te recomendaría un pad thai, es delicioso y fácil de disfrutar.
+¿Prefieres con pollo o con tofu?
+
+Opciones:
+
+Pollo
+
+Tofu
