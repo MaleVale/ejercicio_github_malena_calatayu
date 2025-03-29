@@ -9,3 +9,5 @@
 3. ¿Has probado alguna vez la comida tailandesa?  
    - Sí
    - No
+
+["dialogoNPC-NO"]
