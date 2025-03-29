@@ -10,4 +10,5 @@
    - Sí
    - No
 
-["dialogoNPC-SI"]
+["dialogoNPC-SI", "dialogoNPC-NO"]
+
